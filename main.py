@@ -1,3 +1,4 @@
+#poop
 import random
 import time
 from team import team1, team2
