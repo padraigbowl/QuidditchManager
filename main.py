@@ -11,8 +11,3 @@ final_stats(team1, team2)
 
 # Export statistics to a CSV file
 export_statistics(team1, team2)
-
-
-
-
-

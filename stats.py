@@ -34,6 +34,8 @@ def export_statistics(team1, team2):
         ]
         keeper_data.append(keeper_row)
 
+    # Add beater statistics
+
     # Export the data to CSV
     with open(filename, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
