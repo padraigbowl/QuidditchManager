@@ -1,6 +1,3 @@
-import csv
-import random
-import time
 from team import team1, team2
 from outcome import simulate_shot_attempt
 from stats import export_statistics, final_stats
