@@ -3,9 +3,6 @@ from outcome import simulate_shot_attempt
 from stats import export_statistics, final_stats
 from match import simulate_quidditch_match
 
-
-      
-
 # Simulate the Quidditch match
 simulate_quidditch_match(team1, team2)
 
