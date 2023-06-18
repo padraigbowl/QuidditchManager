@@ -33,7 +33,7 @@ def simulate_quidditch_match(team1, team2):
             possession_change = True
         elif outcome == 'save' or outcome == 'miss':
             possession_change = random.choice([True, False])
-        time.sleep(1)
+        time.sleep(0.5)
 
         # Check if the snitch is caught
         if random.random() <= catch_probability:
