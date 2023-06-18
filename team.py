@@ -23,7 +23,5 @@ team2 = {
     'score': 0
 }
 
-# Add the pass_success_rate key with a value of 0.8 to each team
-team1['pass_success_rate'] = 0.8
-team2['pass_success_rate'] = 0.8
+
 
